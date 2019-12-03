@@ -2,8 +2,7 @@ require_relative 'config/environment'
 require_relative 'models/puppy'
 
 class App < Sinatra::Base
-#   In app.rb build out a GET request to load a homepage.
-#   The homepage should go to the main route /.
+
 #
 # The home page will also need a new view index.erb.
 # This page should welcome you to the Puppy Adoption Site.
